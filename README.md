@@ -1,4 +1,4 @@
-![Logo](https://github.com/siddharth-karale/siddharth-karale/blob/main/github%20banner.png)
+![Logo](https://github.com/siddharth-karale/siddharth-karale/blob/main/Yellow%20Banner.png)
 <!-- <h1 align="center">Hi 👋, I'm Siddharth Karale</h1> -->
 <h3 align="center">A Passionate Data Science Aspirant from India.</h3>
 
