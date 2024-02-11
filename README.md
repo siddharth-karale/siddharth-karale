@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **karalesiddharth7@gmail.com**.
 
-- ⚡ Fun fact **"I'm allergic 😷 to responsibility, but irony loves ❤️ me.**
+- ⚡ Fun fact **I'm allergic 😷 to responsibility, but irony loves ❤️ me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
