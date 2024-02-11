@@ -1,6 +1,6 @@
 ![Logo](https://github.com/siddharth-karale/siddharth-karale/blob/main/Yellow%20Banner.png)
 <!-- <h1 align="center">Hi 👋, I'm Siddharth Karale</h1> -->
-<h3 align="center">A Passionate Data Science Aspirant from India.</h3>
+<h3 align="center">A Passionate 🎯Data Science 📊 Aspirant from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/800/1*mr7WXw8tgpMhqugKP2WhrA.gif">
  
