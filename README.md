@@ -6,7 +6,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth-karale&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth-karale" /> </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sites.google.com/view/siddharthk-portfolio/home?authuser=0).
+- 👨‍💻 All of my projects are available at [My Portfolio](https://siddharthkarale.notion.site/Siddharth-Karale-077f8cda53e8450baefc7ac14264b7b1).
 
 - 📫 How to reach me **karalesiddharth7@gmail.com**.
 
